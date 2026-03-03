@@ -1,0 +1,4 @@
+# Build artifacts
+udp/udp_server
+udp/udp_client
+_codeql_detected_source_root
